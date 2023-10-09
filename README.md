@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dingo
 - 📫 How to reach me ：17106243270
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in STM32 MCU
+- 🌱 I’m currently learning STM32 MCU
+- 💞️ I’m looking to collaborate on STM32 MCU
 
 
 <!---
