@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Dingo327
+- 📫 How to reach me ：17106243270
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ：17106243270
+
 
 <!---
 Dingo327/Dingo327 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
